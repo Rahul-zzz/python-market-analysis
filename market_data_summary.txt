@@ -1,0 +1,30 @@
+# Market Evidence Summary
+
+This market evidence summary is based on the analysis of 200 job postings collected from online recruitment platforms. The data was organized into three categories: Logistics Workforce, Automotive Workforce, and Skilling Programs. The objective was to identify workforce demand, required skills, and training needs that support the development of a training and enablement platform.
+
+### Key Market Evidence
+
+1. Strong demand for logistics professionals**
+
+The analysis identified **156 logistics workforce job postings**, with roles such as Dispatch Executive, Transport Executive, Warehouse Executive, and Fleet Supervisor appearing frequently. This indicates sustained demand for logistics and supply chain professionals across multiple organizations.
+This matters because...** A training platform can prepare candidates with practical logistics, warehouse, transportation, and supply chain skills required by employers.
+
+2. Growing opportunities in the automotive workforce**
+
+The dataset contains **64 automotive-related job postings**, including Transport Executive, Service Advisor, Transport Coordinator, Fleet Executive, and other operational roles. This highlights continued hiring across automotive and transport operations.
+This matters because...** Industry-specific technical training can improve workforce readiness for automotive manufacturing, transportation, and vehicle management roles.
+
+3. Organizations are investing in employee learning and development**
+
+The analysis identified **16 skilling and training-related job postings**, including Operations Trainer, Learning & Development, Training Coordination, and Training & Development roles. This demonstrates that organizations are strengthening their internal training capabilities.
+This matters because...** Companies increasingly recognize structured learning and continuous employee development as essential for operational excellence.
+
+4. Employers consistently seek operational and digital skills**
+
+Frequently requested skills include Warehouse Operations, Supply Chain Management, Fleet Management, Transport Management, Training & Development, Learning & Development, Automation, Continuous Improvement, and Vehicle Management.
+This matters because...** A modern training platform should combine technical, operational, and digital skills to match current industry hiring requirements.
+
+5. Hiring demand is concentrated across major industrial cities**
+
+Most opportunities were located in Ahmedabad, Mumbai, Bengaluru, Pune, and Chennai, demonstrating broad workforce demand across India's key logistics and industrial hubs.
+This matters because...** A digital training platform can deliver standardized, scalable learning to candidates across multiple geographic regions without location constraints.
